@@ -1,0 +1,31 @@
+Blue jeans, Raleigh, 20.00, 18.00, In stock, 4
+Khaki pants, Asheville, 25.00, 22.00, In stock, 3
+Swimming trunks, Winston-Salem, 12.00, 10.00, Sold out, 5
+Denim shorts, Myrtle Beach, 16.00, 13.50, In stock, 5
+Dress shoes, Raleigh, 30.00, 27.00, In stock, 3
+Jackets, Myrtle Beach, 35.00, 25.00, In stock, 1
+Tank tops, Charleston, 11.00, 9.50, Sold out, 4
+Nightgowns, Myrtle Beach, 26.00, 20.00, Sold out, 4
+T-shirts, Winston-Salem, 8.00, 4.00, In stock, 5
+Sweaters, Myrtle Beach, 20.00, 10.00, In stock, 1
+Sunglasses, Charlotte, 22.00, 19.50, Sold out, 5
+Eyeliner, Myrtle Beach, 9.50, 8.50, Sold out, 4
+Lipstick, Asheville, 9.00, 8.00, Sold out, 5
+Wallets, Charleston, 28.00, 22.50, In stock, 2
+Handbags, Charlotte, 60.00, 55.00, Sold out, 5
+Bookbags, Burlington, 15.00, 13.50, In stock, 2
+Luggage, Charleston, 65.00, 55.00, In stock, 1
+Socks, Raleigh, 8.00, 6.00, In stock, 1
+Sandals, Winston-Salem, 12.00, 7.50, Sold out, 1
+Earrings, Winston-Salem, 40.00, 36.00, In stock, 4
+Necklaces, Raleigh, 50.00, 42.00, In stock, 3
+Energy bars, Asheville, 2.00, 1.75, Sold out, 5
+Soft drinks, Charleston, 1.00, 0.50, In stock, 5
+Potato chips, Charlotte, 3.00, 2.50, In stock, 3
+Bubble gum, Charlotte, 1.00, 0.75, Sold out, 3
+Magazines, Myrtle Beach, 6.00, 5.00, In stock, 2
+Vests, Asheville, 19.00, 16.00, Sold out, 4
+Teddy bears, Raleigh, 10.00, 5.00, Sold out, 2
+Baseball caps, Charlotte, 10.00, 9.00, In stock, 5
+Baby onesies, Charleston, 7.00, 3.50, In stock, 2
+Hair clips, Charlotte, 2.00, 1.00, Sold out, 5
